@@ -1,0 +1,11 @@
+feature,mean_abs_shap
+numeric__discharge_disposition_id,0.05838786475360394
+numeric__number_inpatient,0.017191477085153263
+numeric__time_in_hospital,0.01600374645160304
+numeric__total_prior_visits,0.013628679337600867
+categorical__diag_1_group_Circulatory,0.011649767172005436
+categorical__diag_1_group_Other,0.011226466479400793
+categorical__age_[50-60),0.010741801715559433
+numeric__number_diagnoses,0.00961609705206421
+numeric__num_medications,0.009310362363027206
+numeric__num_lab_procedures,0.009119597856369285

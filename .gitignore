@@ -1,0 +1,10 @@
+.venv/
+data/
+diabetic_data.csv
+IDS_mapping.csv
+INTERVIEW_SUMMARY.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+models/*.joblib

@@ -1,0 +1,4 @@
+miss_to_false_alarm_ratio,best_threshold,total_cost,flag_nobody_cost,savings_vs_flag_nobody
+5,0.6301169991493225,5757,6285,528
+10,0.49468448758125305,9829,12570,2741
+20,0.33033502101898193,12356,25140,12784

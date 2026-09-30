@@ -1,0 +1,4 @@
+scenario,threshold,miss_cost,total_cost,savings_vs_flag_nobody
+chosen_threshold,0.6301169991493225,5,5757,528
+flag_nobody,1.0,5,6285,0
+flag_everybody,0.0,5,12741,-6456
